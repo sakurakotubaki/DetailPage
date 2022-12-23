@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740661903181",
+    "project_id": "freezed-app",
+    "storage_bucket": "freezed-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740661903181:android:4b29ce9aacc207c49fc104",
+        "android_client_info": {
+          "package_name": "com.example.freezed_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740661903181-cl6cl6ksn1f218pofpgr2upfolpv6j6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrdEIEyMuBkMYaY-mQ73HuGr8-yGoKbRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740661903181-cl6cl6ksn1f218pofpgr2upfolpv6j6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
