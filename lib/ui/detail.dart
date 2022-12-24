@@ -78,7 +78,7 @@ class Detail extends ConsumerWidget {
             decoration: BoxDecoration(border: Border.all(color: Colors.grey)),
             child: Text("""
                     これは${user.name}さんの\n
-                    個人情報が記載され\n
+                    個人情報が記載された\n
                     詳細ページです。
                     """, style: TextStyle(fontSize: 15)),
           )
